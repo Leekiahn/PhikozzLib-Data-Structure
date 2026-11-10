@@ -1,18 +1,12 @@
 {
-  "name": "com.phikozz.phikozzlibrary",
+  "name": "com.phikozz.phikozzlibraryDataStructure",
   "version": "1.0.0",
-  "displayName": "PhikozzLibrary",
-  "description": "설명 추가 예정",
-  "unity": "6000.0",
-  "documentationUrl": "https://example.com/",
-  "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
-  ],
+  "displayName": "PhikozzLibraryDataStructure",
+  "description": "게임 개발에 필요한 자료구조 및 알고리즘을 구현한 라이브러리입니다.",
+  "unity": "6000.3",
+  "documentationUrl": "",
   "author": {
     "name": "Phikozz",
-    "email": "kiahn2000@gmail.com",
-    "url": "https://phikozz.tistory.com/"
+    "email": "kiahn2000@gmail.com"
   }
 }
