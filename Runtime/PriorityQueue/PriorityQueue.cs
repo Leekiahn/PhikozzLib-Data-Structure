@@ -52,5 +52,10 @@ namespace PhikozzLib.DataStructure
 
             return _heap.Peek().element;
         }
+
+        public void Clear()
+        {
+            _heap.Clear();
+        }
     }
 }

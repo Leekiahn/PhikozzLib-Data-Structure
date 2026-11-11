@@ -56,6 +56,11 @@ namespace PhikozzLib.DataStructure
             return _elements[0];
         }
 
+        public void Clear()
+        {
+            _elements.Clear();
+        }
+
         private void HeapifyUp(int index)
         {
             while (index > 0)
